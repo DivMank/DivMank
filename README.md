@@ -2,7 +2,7 @@
 - 👀 I’m interested in school
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on alot of projects
-- 📫 How to reach me email!
+- 📫 How to reach me: email!
 
 <!---
 DivMank/DivMank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
